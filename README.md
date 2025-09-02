@@ -1,2 +1,2 @@
 # old-generator
-A puzzle
+Please read the attached PDF file before proceeding
